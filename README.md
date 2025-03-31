@@ -1,4 +1,3 @@
-# News-Sentiment-Analysis
 # *News-Sentiment-Analysis*
 ##News Classification Project
 Course: NLP (Semester 6) - Pillai College of Engineering
